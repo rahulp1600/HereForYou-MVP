@@ -1,0 +1,19 @@
+{
+  "name": "hereforyou-ai-backend",
+  "version": "1.0.0",
+  "description": "AI mentor backend for HereForYou",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
